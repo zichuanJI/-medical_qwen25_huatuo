@@ -1,0 +1,9 @@
+﻿# Generated artifacts
+dataset/huatuo26m_lite_sft.jsonl
+dataset/prepare_report.json
+outputs/
+logs/
+reports/
+tmp/
+__pycache__/
+*.pyc
